@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=MuseumKiosk
+Exec=/home/louisdierickx/Desktop/bootloader/autoboot.sh
+X-GNOME-Autostart-enabled=true
